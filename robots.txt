@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hemaabookkeeping.github.io/hema-bookkeeping/sitemap.xml
